@@ -5,24 +5,46 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Developer;Backend+Developer;Problem+Solver;Open+Source+Learner&center=true&width=500&height=50">
 </p>
 
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 Computer Science Student  
-- 💻 Java Full Stack Developer  
-- 🌱 Currently learning **Spring Framework & Backend Development**  
-- 📊 Interested in Software Development and Problem Solving  
-- ⚡ Goal: Become Industry Ready Developer  
-- 📫 Reach me: **your-email@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode" />
-</p>
+- 🎓 Computer Science Student
+- 💻 Strong in Java, JDBC, MySQL
+- 🔥 Currently learning Hibernate & Backend Development
+- 📊 Interested in Data Analytics & Software Development
+- 🌱 Always learning new technologies
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+### ⚙️ Backend
+![JDBC](https://img.shields.io/badge/JDBC-green?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Hibernate](https://img.shields.io/badge/Hibernate-red?style=for-the-badge)
+
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+### 📊 Tools
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+## 🚀 Projects
+
+✅ 🏨 Hotel Management System — Java + JDBC + MySQL  
+✅ 🏫 School Management System  
+✅ 📚 Learn Hub Platform  
 
 ---
 
@@ -38,47 +60,11 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anandswaroop2004&theme=onedark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⭐ Online Song Downloader Website
-- Download songs using URL  
-- Simple UI with fast performance  
-- Built using Web Technologies
-
-### ⭐ Student Management System
-- Manage student records  
-- Java + MySQL based project  
-- CRUD operations implementation
-
-### ⭐ Java Full Stack Projects
-- Backend development using Java  
-- Database integration  
-- Responsive UI
-
----
-
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your link
-- 💻 GitHub: https://github.com/Anandswaroop2004
-- 📧 Email: your-email@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/anand-swaroop01
+- 🌐 Portfolio: https://anand-swaroop-portfolio.vercel.app
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anandswaroop2004&color=blue" />
-</p>
-
----
-
-⭐ From [AnandSwaroop2004](https://github.com/Anandswaroop2004)
+⭐ From [Anand Swaroop](https://github.com/Anandswaroop2004)
