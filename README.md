@@ -25,6 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
+### 🧠 Data Structures & Algorithms
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blueviolet?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge)
+
 ### ⚙️ Backend
 ![JDBC](https://img.shields.io/badge/JDBC-green?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
@@ -39,24 +43,11 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
-
 ## 🚀 Projects
 
 ✅ 🏨 Hotel Management System — Java + JDBC + MySQL  
 ✅ 🏫 School Management System  
 ✅ 📚 Learn Hub Platform  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anandswaroop2004&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandswaroop2004&theme=tokyonight" />
-</p>
 
 ---
 
